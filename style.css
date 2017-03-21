@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	margin-left: auto;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 24;
+}
+
+h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bold;
+	font-size: 72;
+}
+
+.important{
+	font-style: italic;
+}
+
+a:hover{
+	color: aqua
+}
+
